@@ -1,4 +1,0 @@
-0:accesories
-1:apparel
-2:footwear
-3:personal
